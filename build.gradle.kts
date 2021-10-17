@@ -29,6 +29,6 @@ dependencies {
     testImplementation("net.imglib2:imglib2-ij:2.0.0-beta-46")
 }
 
-group = "sc.fiji"
+group = "scenery.graphics"
 version = "0.1.9-SNAPSHOT"
-description = "BigVolumeViewer"
+description = "bigvolumeviewer"
